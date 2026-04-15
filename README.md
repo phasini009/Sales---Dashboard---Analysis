@@ -14,3 +14,4 @@ This project is part of my Data Science & Analytics Internship (Future Interns -
 
 ### 🛠 Tools Used:
 - Microsoft Excel
+![Dashboard](https://github.com/phasini009/Sales---Dashboard---Analysis/blob/main/dashboard.jpeg)
